@@ -1,0 +1,23 @@
+{
+  "context": {
+    "scope": "category",
+    "context_id": "dentists",
+    "version": 1,
+    "payload": {
+      "slug": "dentists",
+      "voice": {
+        "tone": "peer_clinical"
+      },
+      "digest": [
+        {
+          "id": "d1",
+          "kind": "research",
+          "title": "3-month fluoride recall cuts caries 38% better",
+          "source": "JIDA Oct 2026, p.14",
+          "trial_n": 2100,
+          "patient_segment": "high_risk_adults"
+        }
+      ]
+    }
+  }
+}
